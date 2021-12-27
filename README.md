@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nitish Sinha
-- 👀 I’m interested in Programing, and Web development
-- 🌱 I’m currently learning Java, Web development technologies like node.js, express.js,mongoDB and React.js.
+- 👀 I’m interested in Front-End Development with React.js
 - 👦 I'm learing new things daily and looking for opportunities to gain experience. 
 - 📫 How to reach me - nitishgoku01@gmail.com
 
