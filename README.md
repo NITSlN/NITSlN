@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitish Sinha
-- 👀 I’m interested in Front-End Development with React.js
+- 👀 I’m a Software Developer interested in Blockchain and knows front-end development.
 - 👦 I'm learing new things daily and looking for opportunities to gain experience. 
 - 📫 How to reach me - nitishgoku01@gmail.com
 
